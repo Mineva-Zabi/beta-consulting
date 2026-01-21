@@ -14,7 +14,7 @@ const About: React.FC = () => {
         </div>
 
         <div className="about__visual">
-          <img src="assets/wave.png" alt={t.about.imageAlt} />
+          <img src="/assets/wave.png" alt={t.about.imageAlt} />
         </div>
       </div>
     </section>

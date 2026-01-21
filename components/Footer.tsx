@@ -9,7 +9,7 @@ const Footer: React.FC = () => {
     <footer id="contacts" className="footer">
       <div className="container footer__grid">
         <div className="footer__brand">
-          <img src="assets/logo.svg" alt="Beta" />
+          <img src="/assets/logo.svg" alt="Beta" />
         </div>
 
         <button

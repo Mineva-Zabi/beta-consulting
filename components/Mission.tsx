@@ -16,7 +16,7 @@ const Mission: React.FC = () => {
           </div>
 
           <div className="mission__visual">
-            <img src="assets/mission-chart.png" alt={t.mission.imageAlt} />
+            <img src="/assets/mission-chart.png" alt={t.mission.imageAlt} />
           </div>
         </div>
       </div>
