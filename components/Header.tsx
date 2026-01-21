@@ -13,7 +13,7 @@ const Header: React.FC = () => {
     <header className={`site-header ${isMenuOpen ? 'site-header--open' : ''}`}>
       <div className="container header__inner">
         <a className="logo" href="#top" aria-label="Beta" onClick={closeMenu}>
-          <img src="/assets/logo.svg" alt="Beta" />
+          <img src="assets/logo.svg" alt="Beta" />
         </a>
 
         <button

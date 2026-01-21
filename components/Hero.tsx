@@ -23,16 +23,16 @@ const Hero: React.FC = () => {
       </div>
 
       <div className="hero__decor" aria-hidden="true">
-        <img className="hero__ring" src="/assets/hero-wave.png" alt="" />
-        <img className="hero__torus" src="/assets/3dimg.svg" alt="" />
+        <img className="hero__ring" src="assets/hero-wave.png" alt="" />
+        <img className="hero__torus" src="assets/3dimg.svg" alt="" />
         <img
           className="hero__sphere hero__sphere--left"
-          src="/assets/sphere.png"
+          src="assets/sphere.png"
           alt=""
         />
         <img
           className="hero__sphere hero__sphere--right"
-          src="/assets/sphere.png"
+          src="assets/sphere.png"
           alt=""
         />
       </div>
